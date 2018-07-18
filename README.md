@@ -235,7 +235,7 @@ Html.codeEditor
 
 ---
 
-![mind_blown](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![mind_blown](https://i.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.webp)
 
 ---
 
