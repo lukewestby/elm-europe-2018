@@ -6,50 +6,50 @@
 
 ---
 
-![manhattan_beach](elm_europe/manhattan_beach.jpg)
+![manhattan_beach](images/manhattan_beach.jpg)
 
 ---
 
-![nri 200%](elm_europe/nri.png)
+![nri 200%](images/nri.png)
 
 ---
 
-![ellie 70%](elm_europe/ellie.png)
-![nri 130%](elm_europe/nri.png)
-![elm 14%](elm_europe/elm.png)
+![ellie 70%](images/ellie.png)
+![nri 130%](images/nri.png)
+![elm 14%](images/elm.png)
 
 ---
 
-![beginners 250%](elm_europe/beginners.png)
+![beginners 250%](images/beginners.png)
 
 ---
 
-![js 80%](elm_europe/js.jpg)
-![elm 20%](elm_europe/elm.png)
+![js 80%](images/js.jpg)
+![elm 20%](images/elm.png)
 
 ---
 
-![web_platform](elm_europe/web_platform.png)
+![web_platform](images/web_platform.png)
 
 ---
 
-![use_a_port 200%](elm_europe/use_a_port.png)
+![use_a_port 200%](images/use_a_port.png)
 
 ---
 
-![pandoras_box 100%](elm_europe/pandoras_box.jpg)
+![pandoras_box 100%](images/pandoras_box.jpg)
 
 ---
 
-![blockchain 150%](elm_europe/blockchain.jpg)
+![blockchain 150%](images/blockchain.jpg)
 
 ---
 
-![efrei_map](elm_europe/efrei_map.png)
+![efrei_map](images/efrei_map.png)
 
 ---
 
-![codemirror 150%](elm_europe/codemirror.png)
+![codemirror 150%](images/codemirror.png)
 
 ---
 
@@ -189,7 +189,7 @@ app.ports.textEditorOut.subscribe(([type, data]) => {
 
 ---
 
-![code_pile 25%](elm_europe/code_pile.png)
+![code_pile 25%](images/code_pile.png)
 
 ---
 
@@ -307,7 +307,7 @@ vs.
 
 ---
 
-![shadow_dom 100%](elm_europe/shadow_dom.png)
+![shadow_dom 100%](images/shadow_dom.png)
 
 ---
 
@@ -332,19 +332,19 @@ map markers =
 
 ---
 
-![nested 30%](elm_europe/nested.png)
+![nested 30%](images/nested.png)
 
 ---
 
-![nested_remove 30%](elm_europe/nested_remove.png)
+![nested_remove 30%](images/nested_remove.png)
 
 ---
 
-![nested_expected 30%](elm_europe/nested_expected.png)
+![nested_expected 30%](images/nested_expected.png)
 
 ---
 
-![nested_actual 30%](elm_europe/nested_actual.png)
+![nested_actual 30%](images/nested_actual.png)
 
 ---
 
@@ -393,8 +393,8 @@ Html.styled (Html.node "nri-textarea-v3")
 
 ---
 
-![js 80%](elm_europe/js.jpg)
-![elm 20%](elm_europe/elm.png)
+![js 80%](images/js.jpg)
+![elm 20%](images/elm.png)
 
 ---
 
@@ -408,7 +408,7 @@ Html.styled (Html.node "nri-textarea-v3")
 
 ---
 
-![actor 130%](elm_europe/actor.png)
+![actor 130%](images/actor.png)
 
 ---
 
